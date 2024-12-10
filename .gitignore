@@ -15,7 +15,5 @@ build/
 
 /E-commerce
   .gitignore
-  /frontend
-    .gitignore
   /backend
     .gitignore  
