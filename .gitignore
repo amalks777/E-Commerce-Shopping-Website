@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+backend/.env
+.env
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
+
+/E-commerce
+  .gitignore
+  /frontend
+    .gitignore
+  /backend
+    .gitignore  
